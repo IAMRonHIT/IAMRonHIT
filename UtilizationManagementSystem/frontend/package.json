@@ -1,0 +1,13 @@
+{
+  "name": "utilization_management_system",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "utilization_management_system": "file:"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "client": "react-scripts start"
+  }
+}

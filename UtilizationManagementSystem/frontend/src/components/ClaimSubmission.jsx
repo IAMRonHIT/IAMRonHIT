@@ -1,0 +1,1 @@
+// Similar structure as AuthorizationRequest.jsx for claims
